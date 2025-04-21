@@ -31,6 +31,6 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ranyalamouri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ranya-laamari-4b5431361/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=google-chrome)](https://your-portfolio.com)
 
