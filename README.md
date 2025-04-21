@@ -8,7 +8,7 @@
 - 🎓 Cloud Computing & Virtualization Engineering student
 - 🧠 Always learning something new — currently diving deeper into Azure and containerization
 - 💻 I love building full-stack apps and cloud-hosted services
-- 🌍 Based in Agadir, Morocco
+- 🌍 Based in Rabat, Morocco
 
 ---
 
